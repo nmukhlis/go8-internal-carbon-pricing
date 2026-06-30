@@ -1,4 +1,4 @@
-# Internal Carbon Pricing Readiness — Australia's Go8 Universities
+# Internal Carbon Pricing Readiness for Australia's Go8 Universities
 
 **An 18-variable institutional readiness assessment of whether Australia's eight
 Group of Eight universities can implement internal carbon pricing (ICP) to
