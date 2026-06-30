@@ -64,10 +64,6 @@ consistently strong:
   re-implements the scoring and visualization layer in R for reproducibility
   and to separate "the numbers" from "the writing."
 
-## AI Declaration
-
-The Excel-based scoring, data collection, and source coding for this project were conducted independently (see the thesis AI Declaration for detail on that process). The R analysis script, data transformation, and visualizations in this repository were built by me with the assistance of Claude to translate the original Excel-based scoring into a reproducible, version-controlled analysis pipeline. All scoring judgments, weights, and the underlying rubric design are my own work.
-
 Run it yourself:
 
 ```r
@@ -84,3 +80,7 @@ directly from the raw scores — nothing is hardcoded.
 The complete thesis — abstract, literature review, full methodology,
 discussion, limitations, and the full 18-variable evidence record with
 citations for every single score — is in [`Final_Research_Nabil_M.pdf`](./Final_Research_Nabil_M.pdf).
+
+## AI Declaration
+
+The Excel-based scoring, data collection, and source coding for this project were conducted independently (see the thesis AI Declaration for detail on that process). The R analysis script, data transformation, and visualizations in this repository were built by me with the assistance of Claude to translate the original Excel-based scoring into a reproducible, version-controlled analysis pipeline. All scoring judgments, weights, and the underlying rubric design are my own work.
