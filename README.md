@@ -12,7 +12,7 @@ sustainability disclosures, then re-analysed in R for this repo.
 
 ## The headline finding
 
-Total readiness scores ranged from **20% (Adelaide) to 72% (UniMelb)** — a
+Total readiness scores ranged from **20% (Adelaide) to 72% (UniMelb)**. A
 huge spread. But the recommended ICP instrument doesn't track that spread
 cleanly. Five universities score in a tight 46–62% band yet land on
 completely different recommendations, because **two hard-barrier conditions**
@@ -22,9 +22,10 @@ completely different recommendations, because **two hard-barrier conditions**
 ![Total score vs. recommendation](figures/01_total_score_by_recommendation.png)
 
 The reason: **no Go8 university bills its departments for utilities or
-decentralises its budget.** Without that, a department literally cannot
-respond to a carbon price — so a sophisticated carbon fee isn't viable no
-matter how good the university's climate governance looks on paper.
+decentralises its budget according to their public statement.** Without that, a department literally cannot
+respond to a carbon price. So a sophisticated carbon fee isn't viable no
+matter how good the university's climate governance looks on paper. The are nuaunces and I highly recommend 
+reading `Final_Research_Nabil_M.pdf`'s discussion section.
 
 ![Dimension comparison](figures/02_dimension_comparison.png)
 
