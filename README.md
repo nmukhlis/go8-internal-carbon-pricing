@@ -57,7 +57,7 @@ consistently strong:
   Governance, Operational Autonomy, Policy & Regulatory), each weighted
   1.0–2.0 based on how central the literature treats it as a precondition for
   ICP to function. Max weighted score = 55.
-- **Allocation logic**: a two-pass process — first check the two hard
+- **Allocation logic**: a two-pass process: first check the two hard
   barriers (Gorbach et al., 2022), then assign a method by score band if both
   clear.
 - **Tools**: scoring and source coding were done in Excel; this repo
