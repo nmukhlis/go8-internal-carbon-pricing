@@ -1,0 +1,145 @@
+university,variable,dimension,raw_score,max_score,weight
+ANU,EA1,Emissions Accounting,2,2,1
+ANU,EA2,Emissions Accounting,3,3,2
+ANU,EA3,Emissions Accounting,2,2,1.5
+ANU,EA4,Emissions Accounting,0,2,2
+ANU,EA5,Emissions Accounting,1,2,1.5
+ANU,G1,Governance,2,2,1.5
+ANU,G2,Governance,2,2,2
+ANU,G3,Governance,1,2,1.5
+ANU,G4,Governance,1,2,1
+ANU,G5,Governance,0,3,1
+ANU,O1,Operational Autonomy,1,2,2
+ANU,O2,Operational Autonomy,0,2,2
+ANU,O3,Operational Autonomy,1,2,1.5
+ANU,O4,Operational Autonomy,2,2,1
+ANU,P1,Policy & Regulatory,2,2,1.5
+ANU,P2,Policy & Regulatory,1,2,1
+ANU,P3,Policy & Regulatory,2,2,1
+ANU,P4,Policy & Regulatory,1,2,1
+UniMelb,EA1,Emissions Accounting,2,2,1
+UniMelb,EA2,Emissions Accounting,3,3,2
+UniMelb,EA3,Emissions Accounting,2,2,1.5
+UniMelb,EA4,Emissions Accounting,0,2,2
+UniMelb,EA5,Emissions Accounting,2,2,1.5
+UniMelb,G1,Governance,2,2,1.5
+UniMelb,G2,Governance,2,2,2
+UniMelb,G3,Governance,2,2,1.5
+UniMelb,G4,Governance,2,2,1
+UniMelb,G5,Governance,0,3,1
+UniMelb,O1,Operational Autonomy,1,2,2
+UniMelb,O2,Operational Autonomy,0,2,2
+UniMelb,O3,Operational Autonomy,1,2,1.5
+UniMelb,O4,Operational Autonomy,2,2,1
+UniMelb,P1,Policy & Regulatory,2,2,1.5
+UniMelb,P2,Policy & Regulatory,1,2,1
+UniMelb,P3,Policy & Regulatory,2,2,1
+UniMelb,P4,Policy & Regulatory,2,2,1
+USyd,EA1,Emissions Accounting,2,2,1
+USyd,EA2,Emissions Accounting,3,3,2
+USyd,EA3,Emissions Accounting,2,2,1.5
+USyd,EA4,Emissions Accounting,0,2,2
+USyd,EA5,Emissions Accounting,1,2,1.5
+USyd,G1,Governance,1,2,1.5
+USyd,G2,Governance,2,2,2
+USyd,G3,Governance,1,2,1.5
+USyd,G4,Governance,0,2,1
+USyd,G5,Governance,1,3,1
+USyd,O1,Operational Autonomy,1,2,2
+USyd,O2,Operational Autonomy,0,2,2
+USyd,O3,Operational Autonomy,1,2,1.5
+USyd,O4,Operational Autonomy,1,2,1
+USyd,P1,Policy & Regulatory,2,2,1.5
+USyd,P2,Policy & Regulatory,2,2,1
+USyd,P3,Policy & Regulatory,2,2,1
+USyd,P4,Policy & Regulatory,2,2,1
+UQ,EA1,Emissions Accounting,2,2,1
+UQ,EA2,Emissions Accounting,1,3,2
+UQ,EA3,Emissions Accounting,1,2,1.5
+UQ,EA4,Emissions Accounting,0,2,2
+UQ,EA5,Emissions Accounting,2,2,1.5
+UQ,G1,Governance,1,2,1.5
+UQ,G2,Governance,2,2,2
+UQ,G3,Governance,1,2,1.5
+UQ,G4,Governance,1,2,1
+UQ,G5,Governance,0,3,1
+UQ,O1,Operational Autonomy,1,2,2
+UQ,O2,Operational Autonomy,0,2,2
+UQ,O3,Operational Autonomy,0,2,1.5
+UQ,O4,Operational Autonomy,2,2,1
+UQ,P1,Policy & Regulatory,2,2,1.5
+UQ,P2,Policy & Regulatory,0,2,1
+UQ,P3,Policy & Regulatory,1,2,1
+UQ,P4,Policy & Regulatory,1,2,1
+UWA,EA1,Emissions Accounting,2,2,1
+UWA,EA2,Emissions Accounting,1,3,2
+UWA,EA3,Emissions Accounting,1,2,1.5
+UWA,EA4,Emissions Accounting,0,2,2
+UWA,EA5,Emissions Accounting,1,2,1.5
+UWA,G1,Governance,2,2,1.5
+UWA,G2,Governance,2,2,2
+UWA,G3,Governance,1,2,1.5
+UWA,G4,Governance,1,2,1
+UWA,G5,Governance,1,3,1
+UWA,O1,Operational Autonomy,1,2,2
+UWA,O2,Operational Autonomy,0,2,2
+UWA,O3,Operational Autonomy,0,2,1.5
+UWA,O4,Operational Autonomy,1,2,1
+UWA,P1,Policy & Regulatory,2,2,1.5
+UWA,P2,Policy & Regulatory,1,2,1
+UWA,P3,Policy & Regulatory,2,2,1
+UWA,P4,Policy & Regulatory,2,2,1
+Adelaide,EA1,Emissions Accounting,0,2,1
+Adelaide,EA2,Emissions Accounting,0,3,2
+Adelaide,EA3,Emissions Accounting,0,2,1.5
+Adelaide,EA4,Emissions Accounting,0,2,2
+Adelaide,EA5,Emissions Accounting,0,2,1.5
+Adelaide,G1,Governance,2,2,1.5
+Adelaide,G2,Governance,1,2,2
+Adelaide,G3,Governance,1,2,1.5
+Adelaide,G4,Governance,0,2,1
+Adelaide,G5,Governance,0,3,1
+Adelaide,O1,Operational Autonomy,0,2,2
+Adelaide,O2,Operational Autonomy,0,2,2
+Adelaide,O3,Operational Autonomy,0,2,1.5
+Adelaide,O4,Operational Autonomy,0,2,1
+Adelaide,P1,Policy & Regulatory,1,2,1.5
+Adelaide,P2,Policy & Regulatory,1,2,1
+Adelaide,P3,Policy & Regulatory,1,2,1
+Adelaide,P4,Policy & Regulatory,1,2,1
+Monash,EA1,Emissions Accounting,2,2,1
+Monash,EA2,Emissions Accounting,3,3,2
+Monash,EA3,Emissions Accounting,2,2,1.5
+Monash,EA4,Emissions Accounting,0,2,2
+Monash,EA5,Emissions Accounting,2,2,1.5
+Monash,G1,Governance,1,2,1.5
+Monash,G2,Governance,2,2,2
+Monash,G3,Governance,1,2,1.5
+Monash,G4,Governance,2,2,1
+Monash,G5,Governance,0,3,1
+Monash,O1,Operational Autonomy,1,2,2
+Monash,O2,Operational Autonomy,0,2,2
+Monash,O3,Operational Autonomy,0,2,1.5
+Monash,O4,Operational Autonomy,2,2,1
+Monash,P1,Policy & Regulatory,2,2,1.5
+Monash,P2,Policy & Regulatory,1,2,1
+Monash,P3,Policy & Regulatory,2,2,1
+Monash,P4,Policy & Regulatory,1,2,1
+UNSW,EA1,Emissions Accounting,2,2,1
+UNSW,EA2,Emissions Accounting,3,3,2
+UNSW,EA3,Emissions Accounting,2,2,1.5
+UNSW,EA4,Emissions Accounting,1,2,2
+UNSW,EA5,Emissions Accounting,1,2,1.5
+UNSW,G1,Governance,2,2,1.5
+UNSW,G2,Governance,2,2,2
+UNSW,G3,Governance,1,2,1.5
+UNSW,G4,Governance,1,2,1
+UNSW,G5,Governance,0,3,1
+UNSW,O1,Operational Autonomy,1,2,2
+UNSW,O2,Operational Autonomy,0,2,2
+UNSW,O3,Operational Autonomy,1,2,1.5
+UNSW,O4,Operational Autonomy,2,2,1
+UNSW,P1,Policy & Regulatory,2,2,1.5
+UNSW,P2,Policy & Regulatory,1,2,1
+UNSW,P3,Policy & Regulatory,2,2,1
+UNSW,P4,Policy & Regulatory,2,2,1
